@@ -1,0 +1,11 @@
+student_id, subject, marks
+101,         DBMS,   80
+101,         OS,     76
+102,        DBMS,    88
+102,         OS,     81
+103,        DBMS,    87
+103,         OS,     81
+104,        DBMS,    79
+104,         OS,     77
+105,         DBMS,   65
+105,         OS,     88
